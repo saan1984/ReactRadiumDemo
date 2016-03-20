@@ -110,6 +110,9 @@ var styles = {
         },
         ':focus': {
             color: '#f00'
+        },
+        ':active': {
+            color: '#000'
         }
     }
 };
